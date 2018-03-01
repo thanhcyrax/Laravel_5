@@ -66,11 +66,11 @@ SHOPIFY_SECRET_KEY=00829b3d3039397d7810e5b3b9c98682  /*API secret key*/
 Trang chủ [Shopify](https://developers.shopify.com/) dành cho developers.
 
 ## Create Account And Login
-*Tạo tài khoản dành cho developer ,không phải tòi khoản customer*
+*Tạo tài khoản dành cho developer ,không phải tài khoản customer*
 
 Tạo tài khoản developers tại [Shopify](https://developers.shopify.com/)
 
-Sau khi **Login** ta chuyển qua trang https://partners.shopify.com/******/development_stores và chú ý hai phần là **Development stores** và **Apps** ở phần menu trái.
+Sau khi **Login** ta chuyển qua trang *https://partners.shopify.com/******/development_stores* và chú ý hai phần là **Development stores** và **Apps** ở phần menu trái.
 
 ### Development stores
 
@@ -100,3 +100,6 @@ Khi tạo ứng dụng thành công ta vào ứng dụng đó và vào phần **
 * **API key:** key dùng để xác nhận ứng dụng để cấu hình trong file '.env'.
 
 * **API secret key:** key ẩn dùng để xác nhận ứng dụng để cấu hình trong file '.env'.
+
+#### Lưu ý :
+* Tất cả các link ứng dụng mà ta khai báo cho Shopify đều là link dạng **https** ,có thể sử dụng [ngrok](https://dashboard.ngrok.com/user/login) để setup 1 link chạy **https** hoặc dùng cách khác tùy ý.
