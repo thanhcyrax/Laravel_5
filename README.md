@@ -6,7 +6,7 @@ Trang chủ [Shopify](https://developers.shopify.com/) dành cho developers.
 
 Tạo tài khoản developers tại [Shopify](https://developers.shopify.com/)
 
-Sau khi **Login** ta được chuyển qua trang *https://partners.shopify.com/******/development_stores* và chú ý hai phần là **Development stores** và **Apps** ở phần menu trái.
+Sau khi **Login** ta được chuyển qua trang **https://partners.shopify.com/******/development_stores** và chú ý hai phần là **Development stores** và **Apps** ở phần menu trái.
 
 ### Development stores
 
